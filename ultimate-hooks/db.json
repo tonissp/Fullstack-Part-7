@@ -1,0 +1,102 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "ye",
+      "id": 3
+    },
+    {
+      "content": "does this work?",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": 2,
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "name": "uhh",
+      "number": "",
+      "id": 3
+    },
+    {
+      "name": "uhh",
+      "number": "umm",
+      "id": 4
+    },
+    {
+      "name": "It does work?",
+      "number": "4206969",
+      "id": 5
+    },
+    {
+      "name": "It does work?",
+      "number": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 16
+    }
+  ]
+}

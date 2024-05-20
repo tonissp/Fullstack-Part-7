@@ -1,0 +1,38 @@
+GET http://localhost:3003/api/blogs
+
+
+###
+
+GET http://localhost:3003/api/users
+
+###
+
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Indoc3MiLCJpZCI6IjY2NDMyOTgyN2I2NzU1OTNjMWJhMDBhOSIsImlhdCI6MTcxNTY3NzU3MX0.DaDvCn1vHFJcYip4PnfZovLF_QjgkZR3em4BYMjcNYU
+
+{
+    "title": "aqetdfghhfhdfsdga",
+    "author": "hello4",
+    "url": "noo",
+    "likes": 9
+}
+
+
+###
+
+PUT  http://localhost:3003/api/blogs/6642364ea6bfbb9de47749c6
+Content-Type: application/json
+
+{
+    "title": "eeg3",
+    "author": "hello4",
+    "url": "noo",
+    "likes": "111",
+    "userId": "6641d721f49feaedfa71df22"
+}
+
+###
+
+DELETE http://localhost:3003/api/blogs/664329a57b675593c1ba00b0
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Indoc3MiLCJpZCI6IjY2NDMyOTgyN2I2NzU1OTNjMWJhMDBhOSIsImlhdCI6MTcxNTY3NzU3MX0.DaDvCn1vHFJcYip4PnfZovLF_QjgkZR3em4BYMjcNYU
